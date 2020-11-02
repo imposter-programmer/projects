@@ -13,14 +13,14 @@
 - Consulting Site
 
 ### TypeScript:
-- Coding Challanges
+- Coding Challenges
 - Rebuild JS Projects
  - Frontend:
   - 20 JS Projects
   
 ### TypeScript w/ React:
-- Rebuild React Projects
- - Mainly pre-built from YouTube tutorials.
+- Rebuild React Projects with TypeScript ( Mainly pre-built React(JavaScript) from YouTube tutorials)
+- Rebuild Portfolio Site with TypeScript
 
 ### TDD:
 - Coding Katas (Python and TypeScript/JavaScript)
