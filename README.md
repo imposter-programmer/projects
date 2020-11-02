@@ -2,41 +2,42 @@
 ## Outcome:
 * React
 * TypeScript
-* TDD
+* React w/ TypeScript
+* TDD TypeScript, Python, Go
+* Machine Learning (Python)
+* Deep Learning (Python)
 * Go
-* Machine Learning
-* Deep Learning
 
-React:
+### React:
 - Portfolio Site
 - Consulting Site
 
-TypeScript:
+### TypeScript:
 - Coding Challanges
 - Rebuild JS Projects
  - Frontend:
   - 20 JS Projects
   
-TypeScript w/ React:
+### TypeScript w/ React:
 - Rebuild React Projects
  - Mainly pre-built from YouTube tutorials.
 
-TDD:
+### TDD:
 - Coding Katas (Python and TypeScript/JavaScript)
 - Simple API with TypeScript, Express and Node.js
 - Simple API with Python and FastAPI
 
-Data analysis:
+### Data analysis:
 - EDA with Jupyter Notebooks
 
-Machine Learning:
+### Machine Learning:
 - Simple models with sckit-learn
 - Deep Learning
 
-Deploying Machine Learning:
+### Deploying Machine Learning:
 - Pre-built models with API (Python and FastAPI)
 
-Go:
+### Go:
 - Coding Challenges
 - Simple API
 - TDD Simple API
